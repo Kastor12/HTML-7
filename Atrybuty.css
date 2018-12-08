@@ -1,0 +1,104 @@
+body{
+    background-color: alicebule;
+}
+
+table,tr,td,
+{
+           border:solid 1px black;
+            border-collapse: collapse;
+            padding: 1px;
+}
+#pawel {vertical-align: baselne;}
+
+#FlagaB
+       {
+          with:10px;
+          height: 10px;
+       }
+       .top
+
+       {
+         font-size: 30px
+         vertical-align: text-top;
+      }
+      .bottom{
+             vertical-align: baseline;
+          }
+      .beseline{
+                 vertical-align: baseline;
+              }
+
+              #wcięcie{text-indent: 40px;
+                       background-color: }
+
+               #wcięcie2{text-indent: }
+
+
+.jeden{
+      color: #66666666666;
+      background-color: #eeeeeeee;
+      text-shadow: 1px,1px,0px #00000000;}
+      /*1px wielkoś przesunięcia w poziomie 1px wielkoś przesunięcia w pionie 0 px stopień rozmazania cienia #000000 color cienia*/
+
+.dwa{color: #6666;
+     background-color: #dddddddd;
+  tekst-shadow 1px,1px,15px #ddddddddd;}
+
+.trzy{color: #6666;
+       background-color: #dddddddd;
+    tekst-shadow 1px,1px,15px #ddddddddd;}
+
+.cztery{color: #6666;
+         background-color: #dddddddd;
+      tekst-shadow -4px,-4px,15px aqua;}
+      .pięc{
+            color: #ffffff;
+            background-color: #aaaaaa;
+            tekst-shadow 3px,-3px, #666666;}
+
+            p.linia::first-letter
+                           {
+                              color:aqua;
+
+
+            }
+p.linia:first-line{font-weight: bold;}
+
+
+a:link{
+        color: green;
+        text-decoration: none;
+     }
+     a:visited{color:red;}
+
+
+     a:hover
+              {
+                 color:Yellow;
+                 text-decoration:underline;
+                 text-shadow:
+              }
+
+              a:active{color:rgb;
+              }
+
+
+
+
+              input{background-color:rgb
+               pading: 5px,20px,5px 10px/*5px góra 30 px prawa 10px dół 10px lewa*/
+               margin-left:100px
+                }
+                input.submit{background-color: black
+                color:alicebule;
+             padding:10px,30px,10px,30px;}
+             input.submit:hover{background-color: rgb}
+
+
+             input.submit:active{color:red;
+             text-shadow: 4px,4px,10px,red;}
+             input.text:focus{background-color: rgb
+             color:aliceblue;}
+
+
+             p.abcp,p.abcde{color:green;}
